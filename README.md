@@ -15,14 +15,11 @@
 
 
 <div>
-
-  🛡️ Cybersecurity & Data Analysis student at **Universidad Hispanoamericana** and **Mujer Digital**.
-  💻 Background in **Web Development**, merging technical logic with *cyberpunk* and minimalist digital aesthetics.
-  🌱 Currently leveling up my **English** skills (aiming for B2!) and mastering **UI Design**.
-  💬 Ask me about **front-end**, **Figma**, or how to build the ultimate organized workflow in **Notion**.
-  ⚡ Fun fact: When offline, I'm usually listening to phonk/electronic music, editing videos, or practicing Stray Kids choreographies.
-
-  <br>
+🛡️ Cybersecurity & Data Analysis student bridging technical logic with functional design. Background in Web Development, combining minimalist aesthetics with robust architecture.<br>
+💻 Tech & Tools: Experienced in building responsive front-end interfaces, designing UI/UX workflows in Figma, and organizing data pipelines.<br>
+🌱 Continuous Growth: Advancing professional English proficiency (B2 target) and expanding expertise in cloud and network security.<br>
+⚡ Beyond the Code: Passionate about digital creation, video editing, and rhythm-driven movement.<br>
+<br>
   
 
 </div align="center">
@@ -51,5 +48,7 @@
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)&nbsp;
   ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+  ![Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-%23049FD9.svg?style=flat&logo=cisco&logoColor=white)&nbsp;
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
 
 </div>
