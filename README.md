@@ -15,10 +15,10 @@
 
 
 <div>
-🛡️ Cybersecurity & Data Analysis student bridging technical logic with functional design. Background in Web Development, combining minimalist aesthetics with robust architecture.<br>
-💻 Tech & Tools: Experienced in building responsive front-end interfaces, designing UI/UX workflows in Figma, and organizing data pipelines.<br>
-🌱 Continuous Growth: Advancing professional English proficiency (B2 target) and expanding expertise in cloud and network security.<br>
-⚡ Beyond the Code: Passionate about digital creation, video editing, and rhythm-driven movement.<br>
+🛡️ Cybersecurity & Data Analysis Student | Understanding how systems are built to know how to protect them.Leveraging a solid background in Full-Stack Web Development to transition into network security and IT support. I combine analytical thinking with hands-on technical skills to solve problems, analyze traffic, and secure environments.<br>
+💻 Tech Stack & Labs: Network analysis & simulation (Wireshark, Cisco Packet Tracer), Relational Databases (SQL Server), Version Control (Git/GitHub), Linux, and Web Technologies (HTML/CSS/JS).<br>
+🌱 Continuous Growth: Currently preparing for the Cisco CCST Cybersecurity certification, diving into HIDS/Firewalls, and advancing my professional English (B1 target).<br>
+⚡ Beyond the Terminal: INFJ. When I'm not configuring networks or querying databases, I'm probably dancing (proud K-Pop dance crew member!), video editing, or exploring digital creation.<br>
 <br>
   
 
