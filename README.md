@@ -18,7 +18,7 @@
 🛡️ Ciberseguridad, Análisis de Datos y Desarrollo Web
 Mi objetivo es simple: entender cómo funcionan los sistemas para protegerlos. Utilizo mi base en desarrollo web para facilitar mi transición hacia la ciberseguridad y el soporte TI, aportando una visión analítica para la resolución de problemas y la protección de redes.<br>
 💻 Stack Técnico: Wireshark, Cisco Packet Tracer, SQL Server, Git/GitHub, Linux y Tecnologías Web (HTML/CSS/JS).<br>
-✨ Enfoque Actual: Certificada en Cisco CCST Cybersecurity. Actualmente ampliando mis conocimientos en análisis de datos, HIDS/Firewalls e inglés conversacional (B1).<br>
+✨ Enfoque Actual: Certificada en Cisco CCST Cybersecurity. Actualmente ampliando mis conocimientos en análisis de datos e inglés conversacional (B1).<br>
 💜 Un poco sobre mí: Amante del arte, el diseño, la buena música y todo lo que sea color morado. Si no estoy frente al código, me vas a encontrar ensayando con mi grupo de baile de K-Pop y Hip-Hop, explorando la edición de video o imagenes.<br>
 <br>
   
@@ -28,7 +28,7 @@ Mi objetivo es simple: entender cómo funcionan los sistemas para protegerlos. U
 
 <div align="center">
 
-`Tech enthusiast | Lifelong learner | Digital architect.`
+`Desarrolladora Web | Especialista en Ciberseguridad | Entusiasta de los Datos`
   <br>
 
   `=========================`
