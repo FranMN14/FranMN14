@@ -15,10 +15,11 @@
 
 
 <div>
-🛡️ Cybersecurity & Data Analysis Student | Understanding how systems are built to know how to protect them.Leveraging a solid background in Full-Stack Web Development to transition into network security and IT support. I combine analytical thinking with hands-on technical skills to solve problems, analyze traffic, and secure environments.<br>
-💻 Tech Stack & Labs: Network analysis & simulation (Wireshark, Cisco Packet Tracer), Relational Databases (SQL Server), Version Control (Git/GitHub), Linux, and Web Technologies (HTML/CSS/JS).<br>
-🌱 Continuous Growth: Currently preparing for the Cisco CCST Cybersecurity certification, diving into HIDS/Firewalls, and advancing my professional English (B1 target).<br>
-⚡ Beyond the Terminal: INFJ. When I'm not configuring networks or querying databases, I'm probably dancing (proud K-Pop dance crew member!), video editing, or exploring digital creation.<br>
+🛡️ Ciberseguridad, Análisis de Datos y Desarrollo Web
+Mi objetivo es simple: entender cómo funcionan los sistemas para protegerlos. Utilizo mi base en desarrollo web para facilitar mi transición hacia la ciberseguridad y el soporte TI, aportando una visión analítica para la resolución de problemas y la protección de redes.<br>
+💻 Stack Técnico: Wireshark, Cisco Packet Tracer, SQL Server, Git/GitHub, Linux y Tecnologías Web (HTML/CSS/JS).<br>
+✨ Enfoque Actual: Certificada en Cisco CCST Cybersecurity. Actualmente ampliando mis conocimientos en análisis de datos, HIDS/Firewalls e inglés conversacional (B1).<br>
+💜 Un poco sobre mí: Amante del arte, el diseño, la buena música y todo lo que sea color morado. Si no estoy frente al código, me vas a encontrar ensayando con mi grupo de baile de K-Pop y Hip-Hop, explorando la edición de video o imagenes.<br>
 <br>
   
 
