@@ -28,7 +28,7 @@ Mi objetivo es simple: entender cómo funcionan los sistemas para protegerlos. U
 
 <div align="center">
 
-`Desarrolladora Web | Especialista en Ciberseguridad | Entusiasta de los Datos`
+`Desarrolladora Web | Ciberseguridad (CCST) | Analista de Datos en Formación`
   <br>
 
   `=========================`
