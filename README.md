@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="FranCyber.png" alt="Card header"/>
+  <img src="FranCyber.jpg" alt="Card header"/>
 </div>
 
 <p align="center">
